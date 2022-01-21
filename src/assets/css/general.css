@@ -1,0 +1,21 @@
+body,
+html {
+  background-color: #212a2f;
+}
+
+.bg-dgreenRaM {
+  background-color: #004d40;
+}
+
+.border-dgreenRaM {
+  border-color: #004d40;
+}
+
+input:checked ~ .radio {
+  color: white;
+  background-color: #00b0c7;
+}
+
+.radioOrder:hover {
+  background-color: #00b0c7;
+}
